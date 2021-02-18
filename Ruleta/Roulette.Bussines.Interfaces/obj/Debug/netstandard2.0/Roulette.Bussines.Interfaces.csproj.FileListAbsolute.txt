@@ -1,0 +1,9 @@
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.deps.json
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.dll
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.pdb
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.csprojAssemblyReference.cache
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.AssemblyInfo.cs
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.dll
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.pdb

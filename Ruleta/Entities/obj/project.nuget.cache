@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GtOwrO5f6JbkiRP9dW6VSzHiDryj3QicowSokINcFst9unrRMeblBoEu7KtgRFD94Pj1dbV/MUEcqlR+ebPqxw==",
+  "success": true,
+  "projectFilePath": "E:\\Stiven\\examen-clean-code\\Ruleta\\Entities\\Roulette.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

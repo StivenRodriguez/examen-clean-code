@@ -1,0 +1,9 @@
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\bin\Debug\netstandard2.0\Roulette.Entities.deps.json
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\bin\Debug\netstandard2.0\Roulette.Entities.dll
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\bin\Debug\netstandard2.0\Roulette.Entities.pdb
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\obj\Debug\netstandard2.0\Roulette.Entities.csprojAssemblyReference.cache
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\obj\Debug\netstandard2.0\Roulette.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\obj\Debug\netstandard2.0\Roulette.Entities.AssemblyInfoInputs.cache
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\obj\Debug\netstandard2.0\Roulette.Entities.AssemblyInfo.cs
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\obj\Debug\netstandard2.0\Roulette.Entities.dll
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Entities\obj\Debug\netstandard2.0\Roulette.Entities.pdb

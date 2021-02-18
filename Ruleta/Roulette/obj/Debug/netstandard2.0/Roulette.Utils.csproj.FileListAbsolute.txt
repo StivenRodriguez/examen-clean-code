@@ -1,0 +1,5 @@
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette\bin\Debug\netstandard2.0\Roulette.Utils.deps.json
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette\bin\Debug\netstandard2.0\Roulette.Utils.dll
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette\obj\Debug\netstandard2.0\Roulette.Utils.AssemblyInfoInputs.cache
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette\obj\Debug\netstandard2.0\Roulette.Utils.AssemblyInfo.cs
+C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette\obj\Debug\netstandard2.0\Roulette.Utils.csprojAssemblyReference.cache

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bussines\Roulette.Bussines.csproj" />
+    <ProjectReference Include="..\Entities\Roulette.Entities.csproj" />
+    <ProjectReference Include="..\Repository\Roulette.Repository.csproj" />
+    <ProjectReference Include="..\Roulette.Bussines.Interfaces\Roulette.Bussines.Interfaces.csproj" />
+    <ProjectReference Include="..\Roulette.Repository.Interfaces\Roulette.Repository.Interfaces.csproj" />
+  </ItemGroup>
+
+
+</Project>
