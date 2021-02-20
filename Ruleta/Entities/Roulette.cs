@@ -4,53 +4,26 @@ using System.Text;
 
 namespace Entities
 {
+    [Serializable]
     public class Roulette
     {
-        private int _id;
-        private bool _state;
-        private List<Bets> _listBest;
+        public string Id;
+        public bool IsOpen = false;
+        private List<Bets> ListBest;
 
-        public Roulette(int id, bool condition)
+        public void AddBet(Bets bets)
         {
-            this._id = id;
-            this._state = condition;
-        }
-
-        public int GetId()
-        {
-            return this._id;
-        }
-
-        public bool GetCondition()
-        {
-            return this._state;
-        }
-
-        public List<Bets> GetListBest()
-        {
-            return _listBest;
-        }
-
-        public void SetId(int id)
-        {
-            this._id = id;
-        }
-
-        public void GetCondition(bool condition)
-        {
-            this._state = condition;
-        }
-
-        private void AddBest(Bets bets)
-        {
-            if (this._listBest == null)
+            if (ListBest == null)
             {
-                this._listBest = new List<Bets>();
-                _listBest.Add(bets);
+                ListBest = new List<Bets>();
+                ListBest.Add(bets);
             }
             else
-                _listBest.Add(bets);
+            {
+                ListBest.Add(bets);
+            }
         }
+
 
     }
 }

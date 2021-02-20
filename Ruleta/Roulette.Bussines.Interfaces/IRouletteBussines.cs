@@ -6,5 +6,7 @@ namespace Roulette.Bussines.Interfaces
 {
     public interface IRouletteBussines
     {
+        string CreateRoulette();
+        bool OpenRulette(string IdRulette);
     }
 }

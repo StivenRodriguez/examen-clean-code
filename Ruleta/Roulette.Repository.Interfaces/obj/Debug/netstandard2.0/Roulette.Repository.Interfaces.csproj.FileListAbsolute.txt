@@ -1,9 +1,21 @@
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\bin\Debug\netstandard2.0\Roulette.Repository.Interfaces.deps.json
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\bin\Debug\netstandard2.0\Roulette.Repository.Interfaces.dll
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\bin\Debug\netstandard2.0\Roulette.Repository.Interfaces.pdb
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\obj\Debug\netstandard2.0\Roulette.Repository.Interfaces.csprojAssemblyReference.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\obj\Debug\netstandard2.0\Roulette.Repository.Interfaces.csproj.CoreCompileInputs.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\obj\Debug\netstandard2.0\Roulette.Repository.Interfaces.AssemblyInfoInputs.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\obj\Debug\netstandard2.0\Roulette.Repository.Interfaces.AssemblyInfo.cs
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\obj\Debug\netstandard2.0\Roulette.Repository.Interfaces.dll
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Repository.Interfaces\obj\Debug\netstandard2.0\Roulette.Repository.Interfaces.pdb
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.deps.json
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.dll
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.pdb
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.csprojAssemblyReference.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.AssemblyInfoInputs.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.AssemblyInfo.cs
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.dll
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.deps.json
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Entities.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/bin/Debug/netstandard2.0/Roulette.Entities.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.csprojAssemblyReference.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.AssemblyInfoInputs.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.AssemblyInfo.cs
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.csproj.CoreCompileInputs.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.csproj.CopyComplete
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Repository.Interfaces/obj/Debug/netstandard2.0/Roulette.Repository.Interfaces.pdb

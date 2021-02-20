@@ -1,9 +1,18 @@
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.deps.json
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.dll
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.pdb
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.csprojAssemblyReference.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.csproj.CoreCompileInputs.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.AssemblyInfoInputs.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.AssemblyInfo.cs
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.dll
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Roulette.Bussines.Interfaces\obj\Debug\netstandard2.0\Roulette.Bussines.Interfaces.pdb
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.deps.json
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.dll
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.pdb
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.csprojAssemblyReference.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.csproj.CoreCompileInputs.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.AssemblyInfoInputs.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.AssemblyInfo.cs
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.dll
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.deps.json
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.csprojAssemblyReference.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.AssemblyInfoInputs.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.AssemblyInfo.cs
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.csproj.CoreCompileInputs.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/obj/Debug/netstandard2.0/Roulette.Bussines.Interfaces.pdb

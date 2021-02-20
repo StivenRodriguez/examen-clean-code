@@ -22,10 +22,6 @@ namespace Roulette.Api.Controllers
             _rouletteBusiness = rouletteBusiness;
         }
 
-        [ProducesResponseType(200)]
-        [ProducesResponseType(400)]
-        [ProducesResponseType(401)]
-        [ProducesResponseType(403)]
         [Produces("application/json")]
         [HttpPost("AddRoulette")]
         public IActionResult AddRoulette()
@@ -35,10 +31,6 @@ namespace Roulette.Api.Controllers
             return StatusCode(200, null);
         }
 
-        [ProducesResponseType(200)]
-        [ProducesResponseType(400)]
-        [ProducesResponseType(401)]
-        [ProducesResponseType(403)]
         [Produces("application/json")]
         [HttpPost("OpenRoulette")]
         public IActionResult OpenRoulette(int idRoulette)
@@ -48,10 +40,6 @@ namespace Roulette.Api.Controllers
             return StatusCode(200, null);
         }
 
-        [ProducesResponseType(200)]
-        [ProducesResponseType(400)]
-        [ProducesResponseType(401)]
-        [ProducesResponseType(403)]
         [Produces("application/json", Type = typeof(Bets))]
         [HttpPost("AddBet")]
         public IActionResult AddBet()
@@ -61,10 +49,6 @@ namespace Roulette.Api.Controllers
             return StatusCode(200, null);
         }
 
-        [ProducesResponseType(200)]
-        [ProducesResponseType(400)]
-        [ProducesResponseType(401)]
-        [ProducesResponseType(403)]
         [Produces("application/json", Type = typeof(Bets))]
         [HttpPost("CloseBet")]
         public IActionResult CloseBet()
@@ -74,10 +58,6 @@ namespace Roulette.Api.Controllers
             return StatusCode(200, null);
         }
 
-        [ProducesResponseType(200)]
-        [ProducesResponseType(400)]
-        [ProducesResponseType(401)]
-        [ProducesResponseType(403)]
         [Produces("application/json")]
         [HttpGet("OpConsultarNoveadesNucleo")]
         public IActionResult ConsultarNoveadesNucleo()

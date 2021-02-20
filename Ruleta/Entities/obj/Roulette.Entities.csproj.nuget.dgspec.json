@@ -1,34 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Stiven\\examen-clean-code\\Ruleta\\Entities\\Roulette.Entities.csproj": {}
+    "/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Entities/Roulette.Entities.csproj": {}
   },
   "projects": {
-    "E:\\Stiven\\examen-clean-code\\Ruleta\\Entities\\Roulette.Entities.csproj": {
+    "/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Entities/Roulette.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Stiven\\examen-clean-code\\Ruleta\\Entities\\Roulette.Entities.csproj",
+        "projectUniqueName": "/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Entities/Roulette.Entities.csproj",
         "projectName": "Roulette.Entities",
-        "projectPath": "E:\\Stiven\\examen-clean-code\\Ruleta\\Entities\\Roulette.Entities.csproj",
-        "packagesPath": "C:\\Users\\Jsrodriguez\\.nuget\\packages\\",
-        "outputPath": "E:\\Stiven\\examen-clean-code\\Ruleta\\Entities\\obj\\",
+        "projectPath": "/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Entities/Roulette.Entities.csproj",
+        "packagesPath": "/Users/stivenrodriguez/.nuget/packages/",
+        "outputPath": "/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Entities/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jsrodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/stivenrodriguez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -40,12 +36,17 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
             }
           },
           "imports": [
@@ -58,7 +59,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

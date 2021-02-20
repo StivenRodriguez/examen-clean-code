@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Zl2Ig1b+0knwDYKnSPvpmd1RBp1Pq3i1Etz+yawEAAxom26p0UTedtKpYRDhye71FD6fNiPkVm6q3bIyoKR2TQ==",
+  "dgSpecHash": "6GZGOo60D7WXh/Rhlos03At4jERcF4TJltskDOmlU7CICOCFzYyVKhUFoq+qXueM1RKeEEnuuUaDIV3NEpRW0w==",
   "success": true,
-  "projectFilePath": "E:\\Stiven\\examen-clean-code\\Ruleta\\Roulette.Bussines.Interfaces\\Roulette.Bussines.Interfaces.csproj",
+  "projectFilePath": "/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Roulette.Bussines.Interfaces/Roulette.Bussines.Interfaces.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/stivenrodriguez/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/stivenrodriguez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/stivenrodriguez/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

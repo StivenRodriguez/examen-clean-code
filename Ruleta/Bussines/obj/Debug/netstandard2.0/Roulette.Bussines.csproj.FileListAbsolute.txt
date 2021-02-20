@@ -1,12 +1,30 @@
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\bin\Debug\netstandard2.0\Roulette.Bussines.deps.json
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\bin\Debug\netstandard2.0\Roulette.Bussines.dll
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\bin\Debug\netstandard2.0\Roulette.Bussines.pdb
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.dll
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\bin\Debug\netstandard2.0\Roulette.Bussines.Interfaces.pdb
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\obj\Debug\netstandard2.0\Roulette.Bussines.csprojAssemblyReference.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\obj\Debug\netstandard2.0\Roulette.Bussines.csproj.CoreCompileInputs.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\obj\Debug\netstandard2.0\Roulette.Bussines.AssemblyInfoInputs.cache
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\obj\Debug\netstandard2.0\Roulette.Bussines.AssemblyInfo.cs
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\obj\Debug\netstandard2.0\Roulette.Bussines.csproj.CopyComplete
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\obj\Debug\netstandard2.0\Roulette.Bussines.dll
-C:\Users\Jsrodriguez\Source\Repos\Examen code clean\Ruleta\Bussines\obj\Debug\netstandard2.0\Roulette.Bussines.pdb
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.deps.json
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.dll
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.pdb
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.dll
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.pdb
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.csprojAssemblyReference.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.csproj.CoreCompileInputs.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.AssemblyInfoInputs.cache
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.AssemblyInfo.cs
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.csproj.CopyComplete
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.dll
+C:/Users/Jsrodriguez/Source/Repos/Examen code clean/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.deps.json
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Entities.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Repository.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Bussines.Interfaces.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Entities.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Repository.Interfaces.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/bin/Debug/netstandard2.0/Roulette.Repository.pdb
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.csprojAssemblyReference.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.AssemblyInfoInputs.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.AssemblyInfo.cs
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.csproj.CoreCompileInputs.cache
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.csproj.CopyComplete
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.dll
+/Users/stivenrodriguez/Downloads/examen-clean-code/Ruleta/Bussines/obj/Debug/netstandard2.0/Roulette.Bussines.pdb

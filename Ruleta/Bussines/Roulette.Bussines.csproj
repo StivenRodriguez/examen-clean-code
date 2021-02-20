@@ -6,6 +6,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Roulette.Bussines.Interfaces\Roulette.Bussines.Interfaces.csproj" />
+    <ProjectReference Include="..\Entities\Roulette.Entities.csproj" />
+    <ProjectReference Include="..\Roulette.Repository.Interfaces\Roulette.Repository.Interfaces.csproj" />
+    <ProjectReference Include="..\Repository\Roulette.Repository.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
 </Project>
